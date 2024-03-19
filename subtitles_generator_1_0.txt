@@ -1,0 +1,10 @@
+╭━━╮╱╭━┳╮╱╱╱╭━╮╱╱╱╱╱╱
+┃━━╋━┫━┫╰┳┳╮┃╋┣╮╭┳┳━╮
+┣━━┃╋┃╭┫╭┫┃┃┃╭┫╰┫┃┃╋┃
+╰━━┻━┻╯╰━╋╮┃╰╯╰━┻━╋╮┃
+╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱╰━╯
+softy_plug
+
+subtitles_generator_1_0 - software for create video subtitles
+
+.exe file and repository must be in same directory with video files
